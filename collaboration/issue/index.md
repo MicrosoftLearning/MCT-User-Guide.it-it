@@ -8,7 +8,7 @@ Ogni volta che si crea un problema o un commento su una richiesta pull o un comm
 
 2.  Fare clic su **Problemi** e quindi su **Nuovo problema**.
 
-3.  **Nella casella di testo Titolo** immettere il titolo per il problema e quindi nella **casella di testo Lasciare un commento** digitare una descrizione del problema o del suggerimento.
+3.  Nella casella di testo **Titolo** immettere il titolo per il problema e quindi nella casella di testo **Lasciare un commento** digitare una descrizione del problema o del suggerimento.
 
 4.  Fare clic su **Invia nuovo problema**.
 
@@ -18,6 +18,6 @@ Ogni volta che si crea un problema o un commento su una richiesta pull o un comm
 
 2.  Fare clic su **Problemi** e quindi selezionare il titolo del problema da esaminare.
 
-3.  **Nella pagina Nome** problema digitare **il commento nella scheda Scrittura** nella **casella di testo Lasciare un commento**.
+3.  Nella pagina **Nome problema** digitare il commento nella scheda **Scrittura** nella casella di testo **Lasciare un commento**.
 
 4.  Fare clic su **Commento**.
