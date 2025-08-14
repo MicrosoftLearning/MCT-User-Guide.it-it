@@ -1,0 +1,16 @@
+GitHub introduce la terminologia che potrebbe essere nuova per l'utente e l'elenco seguente include termini e concetti usati da questo documento. Per un elenco completo dei termini di GitHub, vedere tuttavia il [glossario](https://docs.github.com/en/get-started/quickstart/github-glossary) di GitHub.
+
+| Termine | Spiegazione |
+| --- | --- |
+| Git e GitHub | Git è un programma open source, change-tracking e GitHub è un sito/soluzione basato su Git. Esistono altri siti Web e soluzioni che usano Git come back-end. È consigliabile usare GitHub principalmente per i progetti di sviluppo open source (pubblico) ed è gratuito per tali progetti. Tuttavia, se si vuole usare GitHub per i progetti privati e non open source, è necessario iscriversi per ottenere una versione a pagamento. |
+| Repository o repository | Ogni progetto in GitHub si trova in un repository o in un repository. Un repository contiene tutti i file di un progetto, inclusa la documentazione, e supporta la cronologia delle revisioni. Un repository può essere pubblico o privato ed è possibile avere una copia locale del repository sul disco rigido del computer oppure è possibile usare il repository all'interno di GitHub. |
+| Markdown | Si tratta di un formato di file di testo che è possibile usare per la creazione della documentazione. È basato su testo e molto semplice da aggiornare, che semplifica l'uso durante la collaborazione. GitHub lo esegue quindi come HTML. |
+| GitHub flavored markdown (GFM) | Esistono molte varianti, o versioni, del formato di file Markdown. La versione di GitHub, comunemente nota come GFM, è una delle varianti più comuni di Markdown. Per altre informazioni su GFM e su come usare il formato di markup per i documenti GFM, vedere "Introduzione alla scrittura e alla formattazione in GitHub" all'indirizzo https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/. |
+| Fork | Si tratta di una copia di un altro repository che risiede nell'account GitHub, rispetto a un ramo, che risiede nel repository originale. Vedere "Branch" direttamente di seguito. |
+| Filiale | Si tratta di una copia di un repository che si trova nello stesso repository dell'originale. È possibile unire un ramo con l'originale. |
+| Recupera | Si tratta del processo di recupero di una copia delle modifiche più recenti da un repository online. Tuttavia, un recupero non unisce le modifiche. |
+| Pull | Questo è il processo di recupero delle modifiche più recenti da un repository online e di unirle con le modifiche locali. |
+| Unire | Questo è il processo di recupero delle modifiche da un ramo e l'applicazione a un altro. Ciò include il recupero delle modifiche da un repository online e l'applicazione di tali modifiche alla versione locale del repository. |
+| Richiesta pull | Si tratta di un set di modifiche proposte a un repository inviato da un utente e i proprietari o i collaboratori di un repository possono quindi accettare o rifiutare la richiesta pull. |
+| Push | Questo è il processo di invio o invio delle modifiche locali al repository online. |
+| Collaboratore | Si tratta di un utente GitHub che dispone delle autorizzazioni per aggiungere, eliminare o modificare il contenuto di un repository. |
